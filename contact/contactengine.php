@@ -2,8 +2,8 @@
 
 // CHANGE THE VARIABLES BELOW
 
-$EmailFrom = "yourmail@mail.com";
-$EmailTo = "yourmail@mail.com";
+$EmailFrom = "shinde.shantanu21@mail.com";
+$EmailTo = "shinde.shantanu21@mail.com";
 $Subject = "Contact Form Submission";
 
 $Name = Trim(stripslashes($_POST['Name'])); 
